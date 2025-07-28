@@ -1,7 +1,7 @@
 
 :root{
     --cor-fundo: #320132;
-    --cor-principal: #200b1d ;
+    --cor-principal: #b148a1 ;
     --cor-secundaria: #332130;
     --cor-destaque: #fd2be4;
     --cor-texto: #ffd7f6;
@@ -15,13 +15,7 @@ body{
     align-items: center;
     min-height: 100vh;
 }
-:root{
-    --cor-fundo: #01080E;
-    --cor-principal: #0B0D20 ;
-    --cor-secundaria: #212333;
-    --cor-destaque: #2BDEFD;
-    --cor-texto: #D7F9FF;
-}
+
 
 button{
     background-color: var(--cor-secundaria);
